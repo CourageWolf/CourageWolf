@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I am big on fast-casual burger places (let me know your favorite spot!)
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=CourageWolf)](https://github.com/CourageWolf/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourageWolf&layout=compact)](https://github.com/CourageWolf/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourageWolf&layout=compact)](https://github.com/CourageWolf/github-readme-stats) --->
