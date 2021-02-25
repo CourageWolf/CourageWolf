@@ -11,3 +11,4 @@
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=CourageWolf)](https://github.com/CourageWolf/github-readme-stats)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourageWolf&layout=compact)](https://github.com/CourageWolf/github-readme-stats) --->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ali-rahman)
